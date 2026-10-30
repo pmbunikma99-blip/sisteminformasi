@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Informasi Universitas Komputama",
+  "description": "Program Studi Sistem Informasi Universitas Komputama - Mengintegrasikan Komputer, Manajemen, dan Bisnis untuk mencetak Technopreneur berdaya saing dan berakhlakul karimah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
